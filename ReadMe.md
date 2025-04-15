@@ -20,5 +20,7 @@ This is a simple **Camera Menu UI** built using only **HTML and CSS**. It looks 
 - CSS3
 - Icons (optional: Font Awesome or similar)
 
-## 📂 Folder Structure
+
+## Live link
+https://peeyush50.github.io/Camron/
 
